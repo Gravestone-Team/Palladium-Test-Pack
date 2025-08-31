@@ -15,4 +15,4 @@ this will always only use palladium features, nothing specific to any addon or t
 
 obviously also take a look at the palladium wiki as there will be things that we do not cover that are mentioned over there because i dont want to cover EVERY SINGLE TINY FEATURE within one ability (that sounds like a massive waste of space ;-;)
 
-if you are looking for the example test pack for Gravestone: Core features that doesnt exist yet sorry :(
+if you are looking for the example test pack for Gravestone: Core features then wrong place, that doesnt exist yet sorry :(
