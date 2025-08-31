@@ -5,11 +5,8 @@
     "transformers": [
       {
         "type": "palladium:color",
-        "color": [
-          0,
-          255,
-          0
-        ],
+        "color": "#38ce20",
+        "filter": "#eebae6",
         "ignore_blank": true
       }
     ]
