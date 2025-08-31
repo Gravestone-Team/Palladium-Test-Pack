@@ -15,4 +15,23 @@ this will always only use palladium features, nothing specific to any addon or t
 
 obviously also take a look at the palladium wiki as there will be things that we do not cover that are mentioned over there because i dont want to cover EVERY SINGLE TINY FEATURE within one ability (that sounds like a massive waste of space ;-;)
 
+
+    
+<details>
+<summary># Rules</summary>
+
+Hey so obviously gonna need some rules, these will be added to and changed over time
+
+
+-do not put in features from other peoples addons. this is palladium only strictly
+
+-do not make a really complex example of a feature, thats just not needed
+
+-when making an example that uses assets that you have not created, please list somewhere the place that you got that asset from
+
+-do not edit the README.md or pack.mcmeta
+</details>
+
+
+
 if you are looking for the example test pack for Gravestone: Core features then wrong place, that doesnt exist yet sorry :(
